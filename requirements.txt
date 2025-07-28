@@ -1,0 +1,3 @@
+cryptodomex
+selenium
+requests
